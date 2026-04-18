@@ -37,4 +37,22 @@ This add-on is released under the **GNU General Public License v3.0 or later**. 
 
 ## Credits
 
-Not required but highly appreciated if you modify and share the modification in any way.
+This add-on was created by me (Gustaf Normann) and released under the GPL-3.0-or-later license.
+
+**You are free to:**
+- Modify and redistribute this add-on
+- Use it in commercial projects
+- Include it in your own tools
+
+**We politely ask (but do not require) that you:**
+- Keep the original author's name in the credits
+- Link back to the original repository if you share modifications (courtesy and all)
+
+Because open source works best when we acknowledge each other's work.
+
+
+
+***
+**Good blendering y'all!**
+All the best,
+*Gustaf Normann, 2026*
