@@ -2,6 +2,12 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+
+**🌐 Localizations of README / Локализации файла РИДМИ:**
+- [In English](README.md)
+- [На русском](README.ru.md)
+
+
 **A Blender add-on that quickly renames selected Image Empties to match their actual image files names.**
 
 
