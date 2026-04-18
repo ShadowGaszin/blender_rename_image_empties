@@ -4,6 +4,11 @@
 
 **A Blender add-on that quickly renames selected Image Empties to match their actual image files names.**
 
+
+## A bitta background
+
+I (like many other 3D artists) often use image references directly in the 3D Viewport, but sometimes when there's too many images the whole project gets bloated with `Empty.XXX` objects. It's always mildly frustrated me that there's no function to match the empties' names with the corresponding image files so… I went ahead and decided to make my own add-on/extension for that. I liked the final product so much I decided to share it with you, fellow artists. Feel free to share your thoughts and opinions and give me feedback (not "u MF whadda shit you did", but actual reviews and what to fix/improve)
+
 ## Features
 
 - Rename multiple (all if needed) Image Empties at once
@@ -30,6 +35,15 @@
 1. Select your Image Empties
 2. Go to **Object** → click **Rename Image Empties**
 3. Adjust the "Keep Extension" option in the F9 menu
+
+## Feedback
+
+Found a bug? Have an idea? **I want to hear it.**
+
+- ✅ Constructive criticism, bug reports, feature requests
+- ❌ "u MF whadda shit you did" — keep that energy elsewhere
+
+Open an issue on GitHub or reach out directly via [e-mail](mailto:justshadowhedgehog@gmail.com)/[Telegram](https://t.me/half_phantom) (use also for contribution questions). Highly recommend Telegram, as I'm constantly online on it; check e-mails once a week.
 
 ## License
 
